@@ -39,7 +39,7 @@
 
         const username = prompt('username');
         const password = prompt('password');
-        if(username != 'dev' && password != 'bsfr_you_aint_dev') {
+        if(username != 'dev' || password != 'bsfr_you_aint_dev') {
             window.location.href = '/';
         }
 
