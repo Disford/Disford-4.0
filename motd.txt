@@ -1,0 +1,1 @@
+<script>motd('DISFORD 4.0')</script>
