@@ -145,7 +145,7 @@ body {
     cursor: pointer;
 }
 
-#ArtclassContainer {
+#InterstellarContainer {
     position: absolute;
     margin-left: 33%;
     margin-top: 12.5%;
@@ -187,12 +187,20 @@ body {
     transform: translate(-67%, -32%);
 }
 
+#fnaf4Container {
+    position: absolute;
+    margin-left: 33%;
+    margin-top: 42%;
+    transform: translate(-33%, -42%);
+}
+
 #BackContainer {
     position: absolute;
-    margin-left: 50%;
-    margin-top: 43%;
-    transform: translate(-50%, -43%);
+    margin-left: 67%;
+    margin-top: 42%;
+    transform: translate(-67%, -42%);
 }
+
 
 #Version {
     position: absolute;
